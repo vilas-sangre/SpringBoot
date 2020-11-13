@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<menu>
+	
+	<item id="sep_top_1" type="separator"/>
+	<item id="0" text="Menu">
+		
+<!-- 		<item id="2" text="Allocated Resources"/>
+ -->		<item id="4" text="Allocate BOQ"/>
+ <item id="3" text="Allocated BOQ Summary"/>
+<item id="1" text="Linked activities Detail"/> 
+	</item>
+</menu>

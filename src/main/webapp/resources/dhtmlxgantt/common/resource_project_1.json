@@ -1,0 +1,26 @@
+{
+  "data": [
+	 {"id":16, "text":"[WALL CONDUITING, GROUND FLOOR, CONDUITING AND WIRING]", "start_date":"26-07-2018", "duration":"5", "parent":"0", "progress":0.5, "open": true,"planning_type":"4","record_id":16,"lag_days":2,"holidays":1,"linked_type":"0","linked_activity":15, "task_code":"CW02","job_category":"ELECTRICAL","resource_req":"Yes","linked_projects_plan_id":"6","owner":"","project_type_code":"EMC","project_code":"PROJECT117","owner_id": "5","type": "task"},
+				 
+				 
+				 {"id":8, "text":"[SLAB CONDUITING, GROUND FLOOR, SLAB WORKS]", "start_date":"01-07-2018", "duration":"2", "parent":"0", "progress":0.5, "open": true,"planning_type":"4","record_id":8,"lag_days":10,"holidays":0,"linked_type":"1","linked_activity":-1, "task_code":"SLAB01","job_category":"ELECTRICAL","resource_req":"Yes","linked_projects_plan_id":"1","owner":"","project_type_code":"EMC","project_code":"PROJECT117","owner_id": "5","type": "task"},
+				 
+				 
+				 {"id":9, "text":"[SLEEVE PIPING, GROUND FLOOR, SLAB WORKS]", "start_date":"01-07-2018", "duration":"2", "parent":"0", "progress":0.5, "open": true,"planning_type":"4","record_id":9,"lag_days":0,"holidays":0,"linked_type":"1","linked_activity":8, "task_code":"SLAB02","job_category":"PLUMBING","resource_req":"Yes","linked_projects_plan_id":"2","owner":"","project_type_code":"EMC","project_code":"PROJECT117","owner_id": "5","type": "task"}
+
+
+  ],
+  "links": [
+
+	{ "id": "2", "source": "2", "target": "3", "type": "0" },
+	{ "id": "3", "source": "3", "target": "4", "type": "0" },
+	{ "id": "7", "source": "8", "target": "9", "type": "0" },
+	{ "id": "8", "source": "9", "target": "10", "type": "0" },
+	{ "id": "16", "source": "17", "target": "25", "type": "0" },
+	{ "id": "17", "source": "18", "target": "19", "type": "0" },
+	{ "id": "18", "source": "19", "target": "20", "type": "0" },
+	{ "id": "22", "source": "13", "target": "24", "type": "0" },
+	{ "id": "23", "source": "25", "target": "18", "type": "0" }
+
+  ]
+}

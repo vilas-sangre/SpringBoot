@@ -1,0 +1,26 @@
+[  
+   { 
+    "id":54,
+   "enquiry_number":"EC00720",
+      "wbs":"New Home Construction",
+      
+      "children":[  
+        {  
+      "id":44,
+      "enquiry_number":"EC00720.3.33",
+      "wbs":"Foundation",
+      "description":"Foundation",
+      "level1":0,
+      "level2":0,
+      "level3":0,
+      "level4":0,
+      "level5":0,
+      "level6":0,
+      "level7":0,
+      "level8":0,
+      "level_lookup":3
+   }
+      ]
+      
+   }
+]

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<menu>
+	
+	<item id="sep_top_1" type="separator"/>
+	<item id="0" text="Menu">
+		
+		<item id="2" text="Material Request"/>
+		<item id="3" text="Service Request"/>
+		
+		<!-- <item id="1" text="Linked activities Detail"/> -->
+	</item>
+	<item id="Assign Exec Group" text="Menu">
+		
+		
+		<!-- <item id="1" text="Linked activities Detail"/> -->
+	</item>
+</menu>
