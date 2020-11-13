@@ -347,24 +347,7 @@ margin-bottom: 10px;
                      </a>
                   </li>
                   
-                   <li>
-                     <a href="index"><i class="fa fa-tachometer"></i><span>Business Associates</span>
-                     <span class="pull-right-container">
-                     </span>
-                     </a>
-                  </li>
-                   <li class="treeview">
-                     <a href="#">
-                     <i class="fa fa-users"></i><span>Praposal</span>
-                     <span class="pull-right-container">
-                     <i class="fa fa-angle-left pull-right"></i>
-                     </span>
-                     </a>
-                     <ul class="treeview-menu">
-                        <li><a href="user">Motor</a></li>
-                        <li><a href="userList">Non Motor</a></li>
-                     </ul>
-                  </li>
+                   
                   
                   
                   
